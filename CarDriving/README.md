@@ -1,5 +1,5 @@
 # CarDriving
-First Car Racing game with C++ using SFML 
+First Car Driving game with C++ using SFML 
 
 
 # About this projet
